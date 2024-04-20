@@ -1,9 +1,16 @@
-# Automated Water Dispenser Project
-
-Description:
-
-The Automated Water Dispenser Project is a smart solution designed to provide users with a convenient, hygienic, and precise way of dispensing water into containers. The project utilizes Arduino-based hardware coupled with ultrasonic sensors to accurately measure water levels in the reservoir and detect the presence of containers for filling. The software, developed using Arduino programming language, controls the dispensing process, ensuring controlled filling and efficient water usage. The project aims to streamline the process of filling water containers while minimizing wastage and manual effort. Future improvements may include incorporating advanced user interfaces and remote monitoring capabilities for enhanced functionality and user convenience.
+# Water Dispenser with Level Monitoring
 
 PROJECT SIMULATOR: 
 
 https://wokwi.com/projects/363978666759620609
+
+
+A water dispenser system designed using Arduino, capable of dispensing water while monitoring the water level in a container. The system ensures efficient water management by controlling the dispenser pump based on the water level in the container.
+
+Features
+
+Water Level Monitoring: Ultrasonic sensors are employed to accurately measure the water level in the container, ensuring optimal usage and preventing overflow or depletion.
+Automatic Dispensing: Upon detecting a recipient under the dispenser, the system automatically activates the pump to dispense water, providing a convenient and hands-free operation.
+Real-time Feedback: Utilizes an LCD screen to display real-time information about the water level and system status, ensuring user awareness and interaction.
+Error Handling: Incorporates error handling mechanisms to alert users in case of empty reservoir or malfunction, enhancing system reliability and user experience.
+
